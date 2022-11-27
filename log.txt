@@ -1,0 +1,12 @@
+2022-11-24 21:32:28,452 - __main__ - INFO - Start print log
+2022-11-24 21:32:28,453 - __main__ - WARNING - Something maybe fail.
+2022-11-24 21:32:28,453 - __main__ - INFO - Finish
+2022-11-24 21:33:46,427 - __main__ - INFO - Start print log
+2022-11-24 21:33:46,427 - __main__ - WARNING - Something maybe fail.
+2022-11-24 21:33:46,427 - __main__ - INFO - Finish
+2022-11-24 21:33:46,427 - __main__ - INFO - Start print log
+2022-11-24 21:33:46,427 - __main__ - WARNING - Something maybe fail.
+2022-11-24 21:33:46,427 - __main__ - INFO - Finish
+2022-11-24 21:36:05,230 - __main__ - INFO - Start print log
+2022-11-24 21:36:05,230 - __main__ - WARNING - Something maybe fail.
+2022-11-24 21:36:05,230 - __main__ - INFO - Finish
